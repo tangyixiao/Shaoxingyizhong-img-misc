@@ -1,0 +1,27 @@
+{
+  "repo": "tangyixiao/Shaoxingyizhong-img-misc",
+  "sourceBranch": "main",
+  "sourceCommit": null,
+  "media": [
+    {
+      "src": "assets/media/photo-1.webp",
+      "alt": "乒乓球交流，来自绍兴一中公开图片归档",
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-misc/blob/main/UploadFiles/UploadFiles_9649/201003/2010033010322942.jpg"
+    },
+    {
+      "src": "assets/media/photo-2.webp",
+      "alt": "校园户外活动，来自绍兴一中公开图片归档",
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-misc/blob/main/UploadFiles/dw/2023/8/202308281355589466.png"
+    },
+    {
+      "src": "assets/media/photo-3.webp",
+      "alt": "书画作品，来自绍兴一中公开图片归档",
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-misc/blob/main/UploadFiles/UploadFiles_9649/201009/2010092616173478.jpg"
+    }
+  ],
+  "skills": [
+    "baoyu-design",
+    "design-taste-frontend"
+  ],
+  "design": "content-first source/product/photography; no rejected template or faux 3D"
+}
