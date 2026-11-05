@@ -2,26 +2,52 @@
   "repo": "tangyixiao/Shaoxingyizhong-img-misc",
   "sourceBranch": "main",
   "sourceCommit": null,
+  "designVersion": 3,
+  "direction": {
+    "visualConcept": "赭土、纸棕和墨绿的杂项博物匣：书画竖片作为高而安静的主物件，运动与乒乓球两张横片以抽屉形式置于下层，形成大小不一的“杂项”收藏逻辑。事实边界：其他图片路径分片，不把不同年代和目录来源编成同一活动或专题。",
+    "layout": "catalog",
+    "palette": {
+      "light": {
+        "bg": "#E1D2B8",
+        "surface": "#F3E7CD",
+        "ink": "#493723",
+        "muted": "#6e583e",
+        "accent": "#795434"
+      },
+      "dark": {
+        "bg": "#2B2318",
+        "surface": "#3F321F",
+        "ink": "#F3E3C5",
+        "muted": "#c0a681",
+        "accent": "#e4b576"
+      }
+    },
+    "threeConcept": "Three.js 制作有一高两低隔间的木质档案匣，照片作为独立卡纸完整插入；盒体有真实榫接与纸厚，内容仍来自现有图片，不额外生成藏品。",
+    "distinctiveInteraction": "抽开不同隔间即显示其独立来源路径，按“不同目录的样本”标识差异；不提供未经依据的统一活动筛选。"
+  },
   "media": [
     {
       "src": "assets/media/photo-1.webp",
       "alt": "乒乓球交流，来自绍兴一中公开图片归档",
-      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-misc/blob/main/UploadFiles/UploadFiles_9649/201003/2010033010322942.jpg"
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-misc/blob/main/UploadFiles/UploadFiles_9649/201003/2010033010322942.jpg",
+      "path": "UploadFiles/UploadFiles_9649/201003/2010033010322942.jpg"
     },
     {
       "src": "assets/media/photo-2.webp",
       "alt": "校园户外活动，来自绍兴一中公开图片归档",
-      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-misc/blob/main/UploadFiles/dw/2023/8/202308281355589466.png"
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-misc/blob/main/UploadFiles/dw/2023/8/202308281355589466.png",
+      "path": "UploadFiles/dw/2023/8/202308281355589466.png"
     },
     {
       "src": "assets/media/photo-3.webp",
       "alt": "书画作品，来自绍兴一中公开图片归档",
-      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-misc/blob/main/UploadFiles/UploadFiles_9649/201009/2010092616173478.jpg"
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-misc/blob/main/UploadFiles/UploadFiles_9649/201009/2010092616173478.jpg",
+      "path": "UploadFiles/UploadFiles_9649/201009/2010092616173478.jpg"
     }
   ],
   "skills": [
     "baoyu-design",
     "design-taste-frontend"
   ],
-  "design": "content-first source/product/photography; no rejected template or faux 3D"
+  "flagshipModel": null
 }
