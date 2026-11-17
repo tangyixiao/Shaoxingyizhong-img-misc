@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "description": "Some school archive images are filed under a section or a historical upload folder. This collection receives paths that fall outside the named date collections."
+  },
+  "pages": {
+    "home": {
+      "title": "Images outside the dated news collection · {project}"
+    },
+    "features": {
+      "title": "Features · {project}",
+      "description": "Some school archive images are filed under a section or a historical upload folder. This collection receives paths that fall outside the named date collections."
+    },
+    "download": {
+      "title": "Get started · {project}",
+      "description": "The example folder is UploadFiles/201909. Open it to look up an image by filename."
+    },
+    "community": {
+      "title": "Community · {project}",
+      "description": "Find usage guidance, follow discussions and review changes to this project."
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "features": "Features",
+    "download": "Get started",
+    "community": "Community"
+  },
+  "ui": {
+    "skip_link": "Skip to main content",
+    "navigation": "Main navigation",
+    "open_navigation": "Open navigation",
+    "close_navigation": "Close navigation",
+    "language": "Choose language",
+    "theme": "Choose theme",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System",
+    "platforms": "Supported platforms",
+    "github": "GitHub",
+    "view_image": "View full illustration",
+    "feature_more": "Explore features",
+    "download": "Browse an example folder",
+    "release_notes": "Source repository",
+    "documentation": "Documentation",
+    "source": "Source repository",
+    "illustration": "First steps",
+    "license": "Rights and reuse of archive images"
+  },
+  "hero": {
+    "title": [
+      "Images outside the dated news collection"
+    ],
+    "description": [
+      "Some school archive images are filed under a section or a historical upload folder. This collection receives paths that fall outside the named date collections."
+    ],
+    "primary_action": "Browse an example folder",
+    "secondary_action": "Explore features"
+  },
+  "preview": {
+    "caption": "First steps",
+    "tabs": [
+      {
+        "label": "Get started",
+        "icon": "book"
+      }
+    ],
+    "items": [
+      {
+        "title": "Open the 201909 folder",
+        "description": "The example folder is UploadFiles/201909. Open it to look up an image by filename.",
+        "icon": "book"
+      },
+      {
+        "title": "Check its manifest entry",
+        "description": "Search the shard manifest for the old path or filename. The target_path column gives its stored location.",
+        "icon": "link"
+      }
+    ]
+  },
+  "features": {
+    "title": "Project features",
+    "groups": [
+      {
+        "title": "Follow an old path",
+        "description": "A section name or dated upload folder can take you from an article’s image URL to its entry.",
+        "detail": "",
+        "icon": "layers"
+      },
+      {
+        "title": "Check a file against the manifest",
+        "description": "The manifest records the source and target paths, size in bytes and SHA-256 so you can trace a link or check a local copy.",
+        "detail": "",
+        "icon": "book"
+      }
+    ]
+  },
+  "getting_started": {
+    "title": "Get started · {project}",
+    "steps": [
+      {
+        "title": "Open the 201909 folder",
+        "description": "The example folder is UploadFiles/201909. Open it to look up an image by filename.",
+        "icon": "book"
+      },
+      {
+        "title": "Check its manifest entry",
+        "description": "Search the shard manifest for the old path or filename. The target_path column gives its stored location.",
+        "icon": "link"
+      }
+    ]
+  },
+  "community": {
+    "title": "Community · {project}",
+    "description": "Find usage guidance, follow discussions and review changes to this project.",
+    "links": [
+      {
+        "label": "Documentation",
+        "description": "Consult the project documentation.",
+        "icon": "book"
+      },
+      {
+        "label": "Source repository",
+        "description": "Find the project and its maintenance links.",
+        "icon": "link"
+      },
+      {
+        "label": "Review changes",
+        "description": "Review open pull requests or prepare a contribution.",
+        "icon": "code"
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "{copyright}"
+  }
+}
